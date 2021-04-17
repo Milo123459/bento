@@ -1,8 +1,8 @@
 [package]
 name = "bento"
 version = "0.1.0"
-description = "A Tauri App"
-authors = [ "you" ]
+description = "Bento"
+authors = ["Milo123459", "Fnionn"]
 license = ""
 repository = ""
 default-run = "bento"
