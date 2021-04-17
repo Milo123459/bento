@@ -2,7 +2,7 @@
 name = "bento"
 version = "0.1.0"
 description = "Bento"
-authors = ["Milo123459", "Fnionn"]
+authors = [ "Milo123459", "Fnionn" ]
 license = ""
 repository = ""
 default-run = "bento"
