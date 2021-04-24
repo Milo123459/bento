@@ -2,5 +2,5 @@ module.exports = {
 	future: {
 		webpack5: true,
 	},
-	ssr: false
+	ssr: false,
 };

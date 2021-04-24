@@ -1,11 +1,10 @@
-import React from "react";
-import dynamic from "next/dynamic";
+import React from 'react';
+import dynamic from 'next/dynamic';
 
-const DynamicTerminal = dynamic(() => import("../components/Terminal"), {
-  ssr: false
+const DynamicTerminal = dynamic(() => import('../components/Terminal'), {
+	ssr: false,
 });
- 
 
 export default function IndexPage() {
-  return <DynamicTerminal />;
+	return <DynamicTerminal />;
 }
