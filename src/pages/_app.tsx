@@ -1,5 +1,6 @@
-function MyApp({ Component, pageProps }) {
-	return <Component {...pageProps} />;
-}
+import "../styles/xterm.css";
+import 'bulma/css/bulma.css';
 
-export default MyApp;
+export default function App({ Component, pageProps }) {
+  return <Component {...pageProps} />;
+}
