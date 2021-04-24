@@ -17,6 +17,7 @@ function TerminalComponent() {
 		term;
 		prompt();
 		const commandHandler = (command: string) => {
+      if(command.length < 1) return;
 			console.log(command);
 			if (command == 'hello') {
 				prompt('Heya!');
