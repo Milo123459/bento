@@ -1,0 +1,9 @@
+[package]
+name = "bento"
+version = "0.1.0"
+authors = ["Milo <50248166+Milo123459@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
