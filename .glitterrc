@@ -12,7 +12,8 @@
                 "docs",
                 "void",
                 "deps",
-                "ci"
+                "ci",
+                "design"
             ]
         },
         {
