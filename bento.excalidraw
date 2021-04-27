@@ -1291,13 +1291,80 @@
       "baseline": 25,
       "textAlign": "center",
       "verticalAlign": "top"
+    },
+    {
+      "id": "iwRML6q-tj7rtQWfjccip",
+      "type": "arrow",
+      "x": -580.5039345574753,
+      "y": 545.4074170551603,
+      "width": 72,
+      "height": 134,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1316299569,
+      "version": 39,
+      "versionNonce": 1381499601,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          72,
+          -134
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "4zARFT3Y3WkfH1METZkog",
+      "type": "text",
+      "x": -624.5039345574753,
+      "y": 600.4074170551603,
+      "width": 133,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 557518527,
+      "version": 15,
+      "versionNonce": 270658463,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "Settings page",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18
     }
   ],
   "appState": {
     "viewBackgroundColor": "#ffffff",
     "gridSize": null,
-    "scrollX": -178.83336702982547,
-    "scrollY": -136.45242563883448,
+    "scrollX": -130.83336702982547,
+    "scrollY": -535.4524256388345,
     "zoom": {
       "value": 0.5,
       "translation": {
